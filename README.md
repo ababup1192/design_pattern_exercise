@@ -27,4 +27,4 @@
 
 | Execise | Template | Answer |
 |:--------|:---------|:-------|
-| [Ex01](ex/ex01.md "Ex01") | [A](https://github.com/ababup1192/design_pattern_exercise_ex01_template/tree/ex01-a "A") | [A](https://github.com/ababup1192/design_pattern_exercise_ex01_ans/tree/ex01-a "A") [B](https://github.com/ababup1192/design_pattern_exercise_ex01_ans/tree/ex01-b "B") [C](https://github.com/ababup1192/design_pattern_exercise_ex01_ans/tree/ex01-c "C")|
+| [Ex01](ex/ex01.md "Ex01") | [A](https://github.com/ababup1192/design_pattern_exercise_ex01_template/tree/ex01-a "A") [B](https://github.com/ababup1192/design_pattern_exercise_ex01_template/tree/ex01-b "B")  [C](https://github.com/ababup1192/design_pattern_exercise_ex01_template/tree/ex01-c "C") | [A](https://github.com/ababup1192/design_pattern_exercise_ex01_ans/tree/ex01-a "A") [B](https://github.com/ababup1192/design_pattern_exercise_ex01_ans/tree/ex01-b "B") [C](https://github.com/ababup1192/design_pattern_exercise_ex01_ans/tree/ex01-c "C")|
